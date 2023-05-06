@@ -8,7 +8,22 @@ export const ProjectList = [
     github_url: "https://github.com/2k0v11/University_Chatbot",
     demo_url: "https://drive.google.com/file/d/1Ely1V2kaF3BulDNpK-43_N8oEnuASq-b/view?usp=share_link",
   },
-
+  {
+    img: "https://1.bp.blogspot.com/-L2fdbFv6Kjk/WnorUC5l1mI/AAAAAAAAACQ/euAUIWWz3xw2MJ1UlcuyCSJzbLU65xq0gCLcBGAs/s640/2018-02-07_3-53-26.gif",
+    title: "Automated testing",
+    description: "Automated testing performed for various test cases including Facebook, Google, Educational platform (MyCamu).",
+    tech_stack: "Java,Selenium",
+    github_url: "https://github.com/2k0v11/Automated_Testing/tree/main/project/src/session_1",
+   
+  },
+  {
+    img: "https://th.bing.com/th/id/R.35625c277e985e03ce358b86c29ed457?rik=DH1eRpoI7pAOQQ&pid=ImgRaw&r=0",
+    title: "Restaurant",
+    description: "web tech mini project using HTML, CSS and PHP.",
+    tech_stack: "HTML, CSS, PHP",
+    github_url: "https://github.com/2k0v11/Restaurant_webpage",
+    demo_url: "https://miniprojecthotel.000webhostapp.com/",
+  },
 ];
 
 // --------------------------------------- Skills
