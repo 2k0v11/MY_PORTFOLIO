@@ -55,7 +55,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://github.com/your_username/"
+            href="https://www.instagram.com/kavya_kartik_/"
             target="_blank"
             rel="noopener noreferrer"
           >

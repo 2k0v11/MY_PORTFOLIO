@@ -14,15 +14,23 @@ export const ProjectList = [
     description: "Automated testing performed for various test cases including Facebook, Google, Educational platform (MyCamu).",
     tech_stack: "Java,Selenium",
     github_url: "https://github.com/2k0v11/Automated_Testing/tree/main/project/src/session_1",
-   
+    demo_url: "",
   },
   {
-    img: "https://th.bing.com/th/id/R.35625c277e985e03ce358b86c29ed457?rik=DH1eRpoI7pAOQQ&pid=ImgRaw&r=0",
+    img: "https://photos.google.com/share/AF1QipMFEmd8sEgnxKz6w0VHmSp6jYmXqGq5LjR1rhnLEY8-DUqXKjpFfk6lqJz_2-a-dA/photo/AF1QipMo7_-ODkDbr_Ht0ne8mCiE3tYJ1jHPV5AHLwIs?key=QWFqTzJTUkFfbmk3WTdnc1lWaGIxempndExPUllB",
     title: "Restaurant",
-    description: "web tech mini project using HTML, CSS and PHP.",
-    tech_stack: "HTML, CSS, PHP",
-    github_url: "https://github.com/2k0v11/Restaurant_webpage",
-    demo_url: "https://miniprojecthotel.000webhostapp.com/",
+    description: "Front End Restaurant Webpage using HTML5, CSS, Bootstrap and Javascript.",
+    tech_stack: "HTML5, CSS, Bootstrap, Javascript",
+    github_url: "https://github.com/2k0v11/restaurant",
+    demo_url: "https://boundless-pan-production.up.railway.app/",
+  },
+  {
+    img: "https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif",
+    title: "Machine Learning",
+    description: "List of ML projects covering various algorithms.",
+    tech_stack: "Jupyter Notebook",
+    github_url: "https://github.com/2k0v11/ML_Projects", 
+    demo_url: "https://github.com/2k0v11/ML_Projects",
   },
 ];
 
@@ -46,7 +54,12 @@ export const stackList = [
     name: "Excel",
   },
   {
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png?20160212050515",
+    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg",
+    name: "SQL",
+  },
+  
+  {
+    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg",
     name: "R",
   },
   {
@@ -57,10 +70,5 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
     name: "CSS",
   },
-  {
-    img: "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg",
-    name: "Github",
-  },
- 
  
 ];

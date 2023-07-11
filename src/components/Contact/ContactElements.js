@@ -11,7 +11,7 @@ export const Email = styled.div`
   justify-content: space-around;
 
   span {
-    font-size: 1rem;
+    font-size: 0.6rem;
     font-weight: 500;
     margin-bottom: 1rem;
   }

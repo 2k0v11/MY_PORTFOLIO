@@ -54,7 +54,7 @@ function FixSocialIcon() {
         </li>
         <li className="item">
           <a
-            href=""
+            href="https://www.instagram.com/kavya_kartik_/"
             target="_blank"
             rel=""
           >
