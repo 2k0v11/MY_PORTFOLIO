@@ -14,7 +14,7 @@ export const ProjectList = [
     description: "Automated testing performed for various test cases including Facebook, Google, Educational platform (MyCamu).",
     tech_stack: "Java,Selenium",
     github_url: "https://github.com/2k0v11/Automated_Testing/tree/main/project/src/session_1",
-    demo_url: "",
+    demo_url: "https://github.com/2k0v11/Automated_Testing/tree/main/project/src/outputs",
   },
   {
     img: "https://photos.google.com/share/AF1QipMFEmd8sEgnxKz6w0VHmSp6jYmXqGq5LjR1rhnLEY8-DUqXKjpFfk6lqJz_2-a-dA/photo/AF1QipMo7_-ODkDbr_Ht0ne8mCiE3tYJ1jHPV5AHLwIs?key=QWFqTzJTUkFfbmk3WTdnc1lWaGIxempndExPUllB",
