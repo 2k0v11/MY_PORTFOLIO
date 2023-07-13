@@ -5,12 +5,7 @@ const Header = ({ toggle }) => {
   return (
     <div className="Container">
       <Nav>
-        <Logo to="/">
-          <img
-            src="https://github.com/2k0v11/MY_PORTFOLIO/blob/main/src/Assets/logo.png"
-            alt="logo"
-          />
-        </Logo>
+        
         <NavMenu>
           <NavLink className="menu-item" to="projects" smooth={true}>
             Projects

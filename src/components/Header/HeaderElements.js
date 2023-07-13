@@ -23,12 +23,12 @@ export const NavLink = styled(ScrollLink)`
     color: #f6f6f6;
   }
 `;
-export const Logo = styled(LinkRouter)`
+/*export const Logo = styled(LinkRouter)`
   img {
     width: 47px;
     height: 47px;
   }
-`;
+`;*/
 
 export const Bars = styled(FaBars)`
   display: none;
