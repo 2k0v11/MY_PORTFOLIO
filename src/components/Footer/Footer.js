@@ -12,7 +12,7 @@ const FooterSection = styled.div`
   span {
     position: absolute;
     bottom: 4rem;
-    color: #fff;
+    color:black;
 
     a {
       text-decoration: underline;
@@ -23,7 +23,7 @@ function Footer() {
   return (
     <FooterSection>
       <div className="Container">
-        <span>
+        <span >
           Created with 💙 by {"Kavya Kartik "}
           <a
             href="https://github.com/2k0v11"
