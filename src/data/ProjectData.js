@@ -22,7 +22,7 @@ export const ProjectList = [
     description: "Front End Restaurant Webpage using HTML5, CSS, Bootstrap and Javascript.",
     tech_stack: "HTML5, CSS, Bootstrap, Javascript",
     github_url: "https://github.com/2k0v11/restaurant",
-    demo_url: "https://boundless-pan-production.up.railway.app/",
+    demo_url: "https://restaurant-lnf59h6ph-kvk.vercel.app/?vercelToolbarCode=L8cMPrESz4IfYwf",
   },
   {
     img: "https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif",
