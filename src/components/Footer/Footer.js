@@ -24,7 +24,7 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span >
-          Created with 💙 by {"Kavya Kartik "}
+          Created with 💙 by {""}
           <a
             href="https://github.com/2k0v11"
             target="_blank"
