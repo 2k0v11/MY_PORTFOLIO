@@ -17,7 +17,7 @@ export const ProjectList = [
     demo_url: "https://github.com/2k0v11/Automated_Testing/tree/main/project/src/outputs",
   },
   {
-    img: "https://photos.google.com/share/AF1QipMFEmd8sEgnxKz6w0VHmSp6jYmXqGq5LjR1rhnLEY8-DUqXKjpFfk6lqJz_2-a-dA/photo/AF1QipMo7_-ODkDbr_Ht0ne8mCiE3tYJ1jHPV5AHLwIs?key=QWFqTzJTUkFfbmk3WTdnc1lWaGIxempndExPUllB",
+    img: "https://github.com/2k0v11/restaurant/blob/main/videoplayback%20(1).gif",
     title: "Restaurant",
     description: "Front End Restaurant Webpage using HTML5, CSS, Bootstrap and Javascript.",
     tech_stack: "HTML5, CSS, Bootstrap, Javascript",
