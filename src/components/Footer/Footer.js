@@ -12,7 +12,7 @@ const FooterSection = styled.div`
   span {
     position: absolute;
     bottom: 4rem;
-    color:black;
+    color:white;
 
     a {
       text-decoration: underline;
