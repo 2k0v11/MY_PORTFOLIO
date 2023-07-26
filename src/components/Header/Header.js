@@ -17,16 +17,7 @@ const Header = ({ toggle }) => {
             Contact
           </NavLink>
         </NavMenu>
-        <NavBtn>
-          <a
-            className="btn PrimaryBtn"
-            href=""
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Resume
-          </a>
-        </NavBtn>
+        
         <NavBtn>
           <a
             className="btn PrimaryBtn"
