@@ -48,6 +48,14 @@ export const ProjectList = [
     github_url: "https://github.com/2k0v11/WebScrapping", 
     demo_url: "https://github.com/2k0v11/WebScrapping",
   },
+   {
+    img: "https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif",
+    title: "ANALYTICS & DASHBOARDS",
+    description: "Analytics projects with Python, Excel & Power BI",
+    tech_stack: "Jupyter Notebook/Colab, Excel, Power BI",
+    github_url: "https://github.com/2k0v11/Analysis-and-Dashboards", 
+    demo_url: "https://github.com/2k0v11/Analysis-and-Dashboards",
+  }
 ];
 
 // --------------------------------------- Skills
@@ -70,7 +78,7 @@ export const stackList = [
     name: "Excel",
   },
   {
-    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg",
+    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg",
     name: "SQL",
   },
   
