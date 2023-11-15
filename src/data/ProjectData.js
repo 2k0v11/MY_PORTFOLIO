@@ -33,7 +33,7 @@ export const ProjectList = [
     demo_url: "https://github.com/2k0v11/ML_Projects",
   },
   {
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmurf.ai%2Fresources%2Ftext-to-speech-vs-speech-to-text%2F&psig=AOvVaw0JBFEm85b2eRwQc_F63SNt&ust=1700124067996000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCK1ezNxYIDFQAAAAAdAAAAABAJ",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftext-to-speech&psig=AOvVaw0JBFEm85b2eRwQc_F63SNt&ust=1700124067996000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCK1ezNxYIDFQAAAAAdAAAAABAS",
     title: "TEXT2SPEECH",
     description: "Converting a given sentence to machine-generated voice.",
     tech_stack: "Jupyter Notebook",
