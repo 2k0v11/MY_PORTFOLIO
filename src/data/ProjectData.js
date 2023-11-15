@@ -78,12 +78,12 @@ export const stackList = [
     name: "Excel",
   },
   {
-    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg",
+    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg",
     name: "SQL",
   },
   
   {
-    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg",
+    img: "https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg",
     name: "R",
   },
   {
@@ -91,8 +91,8 @@ export const stackList = [
     name: "HTML",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/css3.svg",
-    name: "CSS",
+    img: "https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg",
+    name: "POWER BI",
   },
  
 ];
