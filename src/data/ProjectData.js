@@ -33,12 +33,12 @@ export const ProjectList = [
     demo_url: "https://github.com/2k0v11/ML_Projects",
   },
   {
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftext-to-speech&psig=AOvVaw0JBFEm85b2eRwQc_F63SNt&ust=1700124067996000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCK1ezNxYIDFQAAAAAdAAAAABAS",
-    title: "TEXT2SPEECH",
-    description: "Converting a given sentence to machine-generated voice.",
+    img: "https://theintercept.imgix.net/wp-uploads/sites/1/2018/11/Intercept_Echo_v2-3.5MB-2-1542062294.gif",
+    title: "SPEECH-RECOGNITION",
+    description: "Text2Speech & Speech2Text projects.",
     tech_stack: "Jupyter Notebook",
-    github_url: "https://github.com/2k0v11/ML_PROJECTS/tree/main/TEXT2SPEECH", 
-    demo_url: "https://github.com/2k0v11/ML_PROJECTS/blob/main/TEXT2SPEECH/assignment.wav",
+    github_url: "https://github.com/2k0v11/Speech-Recognition", 
+    demo_url: "https://github.com/2k0v11/Speech-Recognition",
   },
   {
     img: "https://www.1datagroup.com/wp-content/uploads/2020/12/Python-Web-Scraping-animated.gif",
