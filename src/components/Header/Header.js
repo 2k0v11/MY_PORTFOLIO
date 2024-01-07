@@ -21,11 +21,11 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://drive.google.com/file/d/17xEsEqVxIc3a8a43YswswjRl2E5Wbafb/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pOqEory5562FLHUnRD0FF91gCZCsL8cE/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
-            CV
+            RESUME
           </a>
         </NavBtn>
         <Bars onClick={toggle} />
