@@ -24,9 +24,9 @@ function Hero() {
         <HeroWrapper>
           <HeroLeft>
             <h1>Hi, I'm Kavya Kartik</h1>
-            <h5>Data Scientist</h5>
+            <h5>Data Enthusiast</h5>
             <p>
-              I turn data into profit !
+              I turn data into profit!
             </p>
           </HeroLeft>
           <HeroRight>
