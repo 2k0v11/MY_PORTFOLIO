@@ -2,10 +2,10 @@
 export const ProjectList = [
   {
     img: "https://media.tenor.com/OjxR-mgQmNoAAAAi/vutura-chatbot.gif",
-    title: "VIKBOT",
-    description: "University chatbot, prepared to address general queries of students and parents.",
+    title: "CHATBOTS",
+    description: "AGRICULTURE AND UNIVERSITY CHATBOTS",
     tech_stack: "Python, React",
-    github_url: "https://github.com/2k0v11/University_Chatbot",
+    github_url: "https://github.com/2k0v11/Chatbots",
     demo_url: "https://drive.google.com/file/d/1Ely1V2kaF3BulDNpK-43_N8oEnuASq-b/view?usp=share_link",
   },
   {
