@@ -6,6 +6,7 @@ export const ProjectList = [
     description: "Analytics projects with Python, Excel & Power BI",
     tech_stack: "Jupyter Notebook/Colab, Excel, Power BI",
     github_url: "https://github.com/2k0v11/Analysis-and-Dashboards", 
+    demo_url: "https://github.com/2k0v11/Analysis-and-Dashboards",
   },
   {
     img: "https://media.tenor.com/OjxR-mgQmNoAAAAi/vutura-chatbot.gif",
@@ -21,8 +22,8 @@ export const ProjectList = [
     title: "Machine Learning",
     description: "List of ML projects covering various algorithms.",
     tech_stack: "Jupyter Notebook",
-    github_url: "https://github.com/2k0v11/ML_Projects", 
-    
+    github_url: "", 
+    demo_url: "https://github.com/2k0v11/ML_Projects",
   },
   {
     img: "https://theintercept.imgix.net/wp-uploads/sites/1/2018/11/Intercept_Echo_v2-3.5MB-2-1542062294.gif",
@@ -30,7 +31,7 @@ export const ProjectList = [
     description: "Text2Speech & Speech2Text projects.",
     tech_stack: "Jupyter Notebook",
     github_url: "https://github.com/2k0v11/Speech-Recognition", 
-    
+    demo_url: "https://github.com/2k0v11/Speech-Recognition",
   },
   {
     img: "https://www.1datagroup.com/wp-content/uploads/2020/12/Python-Web-Scraping-animated.gif",
@@ -38,7 +39,7 @@ export const ProjectList = [
     description: "Extracting data from websites and storing them into CSV files",
     tech_stack: "Jupyter Notebook/Colab",
     github_url: "https://github.com/2k0v11/WebScrapping", 
-   
+   demo_url: "https://github.com/2k0v11/WebScrapping",
   },
   {
     img: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g4eGE3Z2g1NHJkbnN0ODZjeGl4eWwxcnJ6c2Q2bDkzcjBheTZrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gev4knSOnIbKkGGET7/giphy.gif",
